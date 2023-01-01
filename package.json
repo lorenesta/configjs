@@ -18,7 +18,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "json5": "^1.0.1",
+    "json5": "^2.2.2",
     "node-json-parser": "^3.2.2"
   },
   "devDependencies": {
